@@ -8,5 +8,6 @@ Green
 Indigo
 Unicorn
 Yellow
+Pearl
 Red
 These are the colors of the rainbow.
