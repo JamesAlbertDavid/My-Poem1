@@ -10,4 +10,5 @@ Unicorn
 Yellow
 Pearl
 Red
+Emerald
 These are the colors of the rainbow.
